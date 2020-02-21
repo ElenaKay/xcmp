@@ -22,6 +22,8 @@
     "comparison",
     "equal",
     "deep",
-    "compare"
+    "compare",
+    "equality",
+    "deepEqual"
   ]
 }
