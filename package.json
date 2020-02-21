@@ -1,0 +1,27 @@
+{
+  "name": "xcmp",
+  "description": "Extremely Exact Object Comparator",
+  "homepage": "https://github.com/ElenaKay/xcmp",
+  "main": "index.js",
+  "files": [ "index.js" ],
+  "version": "0.0.0-prealpha",
+  "author": {
+    "name": "Elena Mir Karimi",
+    "email": "elena.karymy@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElenaKay/xcmp"
+  },
+  "bugs": {
+    "url": "https://github.com/ElenaKay/xcmp/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "homomorphism",
+    "comparison",
+    "equal",
+    "deep",
+    "compare"
+  ]
+}
